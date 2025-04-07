@@ -4,7 +4,7 @@ Data enthusiast turning insights into impact with analytics, visualization, and 
 
 - 🌍 Based in Berlin, Germany  
 - 🔍 Skills: Python, SQL, PowerBI, Excel, Google Analytics, SEO  
-- 💼 Ex-Business Analyst @ Media.Net (boosted ad precision by 21%)  
+- 💼 Ex-Technology Analyst @ Media.Net (boosted ad precision by 21%)  
 - 🚀 Co-founder @ GoodMinds (5K+ YouTube views in 1 month)  
 - 📱 Intern @ Moodcafe (A/B testing, 1K+ chat sentiment analysis)  
 - 🎓 Pursuing M.Sc. Data Science @ University of Europe  
