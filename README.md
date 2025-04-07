@@ -9,7 +9,7 @@ Data enthusiast turning insights into impact with analytics, visualization, and 
 - 📱 Intern @ Moodcafe (A/B testing, 1K+ chat sentiment analysis)  
 - 🎓 Pursuing M.Sc. Data Science @ University of Europe  
 - 🌱 Learning: Data pipelines & German (A2)  
-- 📫 Reach me: [ashish.rishav@web.de](mailto:ashish.rishav@web.de) | [LinkedIn](https://www.linkedin.com/in/akrishav/)  
+- 📫 Reach me: [ashish@rishav.eu](mailto:ashish@rishav.eu) | [LinkedIn](https://www.linkedin.com/in/akrishav/)  
 
 ## Featured Projects
 - [goodbrainy](https://bit.ly/goodbrainy) - Community blogging Android app  
