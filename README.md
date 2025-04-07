@@ -29,4 +29,4 @@
 
 ---
 
-📫 Reach out: ashish@rishav.eu | [LinkedIn](#) | [Portfolio](#)
+📫 Reach out: ashish@rishav.eu | [LinkedIn](https://www.linkedin.com/in/akrishav/) | [Portfolio](#)
