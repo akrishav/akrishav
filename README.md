@@ -1,32 +1,18 @@
-### 👋 Hi, I'm Ashish Rishav
+# Hey there! I'm Ashish Kr. Rishav 👋
 
-🎓 I'm a Data Scientist with 4+ years of experience in applying Machine Learning and statistical analysis to solve real-world business problems. I specialize in:
-- 🌐 NLP-powered ad-targeting engines
-- 📊 Recommender systems
-- 🧪 A/B testing
-- ⚡️ Scalable data pipelines
+Data enthusiast turning insights into impact with analytics, visualization, and a sprinkle of entrepreneurial spirit.
 
-🚀 At Media.Net, I helped improve ad engagement by over 25% through smart experimentation and ML-driven targeting. My toolkit includes Python, SQL, Scikit-learn, TensorFlow, Spark, AWS, and Power BI.
+- 🌍 Based in Berlin, Germany  
+- 🔍 Skills: Python, SQL, PowerBI, Excel, Google Analytics, SEO  
+- 💼 Ex-Business Analyst @ Media.Net (boosted ad precision by 21%)  
+- 🚀 Co-founder @ GoodMinds (5K+ YouTube views in 1 month)  
+- 📱 Intern @ Moodcafe (A/B testing, 1K+ chat sentiment analysis)  
+- 🎓 Pursuing M.Sc. Data Science @ University of Europe  
+- 🌱 Learning: Data pipelines & German (A2)  
+- 📫 Reach me: [ashish.rishav@web.de](mailto:ashish.rishav@web.de) | [LinkedIn](https://www.linkedin.com/in/akrishav/)  
 
-🛠️ Currently, I'm pursuing my M.Sc. in Data Science at the University of Europe for Applied Sciences, Berlin 🇩🇪, and I'm open to collaborations or job opportunities in data science, AI, or ML.
+## Featured Projects
+- [goodbrainy](https://bit.ly/goodbrainy) - Community blogging Android app  
+- [GoodMinds Website](https://bit.ly/good-minds) - Book summary platform  
 
----
-
-### 🧰 Tech Stack
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-**Tools:** Power BI, Tableau, Spark, Kafka, Docker, AWS, Redshift, Snowflake  
-**Focus Areas:** NLP, A/B Testing, Forecasting, Feature Engineering, GenAI
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishrishav&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrishav&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-📫 Reach out: ashish@rishav.eu | [LinkedIn](#) | [Portfolio](#)
+Check out my pinned repos below for more!
